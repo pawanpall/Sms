@@ -28,7 +28,7 @@ GROUP_NAME     = "Chat group"
 
 FORCE_JOIN_ENABLED = True
 FORCE_JOIN_CHANNEL = -1001970485475
-FORCE_JOIN_LINK    = "https://t.me/indiadbms"
+FORCE_JOIN_LINK    = "https://t.me/indiandbms"
 
 FORCE_JOIN_GROUP_ENABLED = True
 FORCE_JOIN_GROUP_ID      = -1002062127414
